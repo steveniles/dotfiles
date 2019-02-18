@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "'Fira Code', Inconsolata, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.renderLineHighlight": "all",
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    }
+}
