@@ -1,0 +1,24 @@
+<UserSettings>
+  <ApplicationIdentity version="15.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment">
+      <ToolsOptionsSubCategory name="Documents" RegisteredName="Documents" PackageName="Visual Studio Environment Package">
+        <PropertyValue name="AutoloadExternalChanges">true</PropertyValue>
+      </ToolsOptionsSubCategory>
+      <ToolsOptionsSubCategory name="ProjectsAndSolution" RegisteredName="ProjectsAndSolution" PackageName="Visual Studio Environment Package">
+        <PropertyValue name="TrackFileSelectionInExplorer">true</PropertyValue>
+      </ToolsOptionsSubCategory>
+    </ToolsOptionsCategory>
+    <ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
+      <ToolsOptionsSubCategory name="CSharp" RegisteredName="CSharp" PackageName="Text Management Package">
+        <PropertyValue name="WordWrap">true</PropertyValue>
+      </ToolsOptionsSubCategory>
+      <ToolsOptionsSubCategory name="CSharp-Specific" RegisteredName="CSharp-Specific" PackageName="CSharpPackage">
+        <PropertyValue name="SortUsings_PlaceSystemFirst">1</PropertyValue>
+      </ToolsOptionsSubCategory>
+    </ToolsOptionsCategory>
+  </ToolsOptions>
+  <Category name="Source Control_TeamFoundation" Category="{2A718788-A6D9-44C5-90EF-438BF5B06A74}" Package="{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}" RegisteredName="Source Control_TeamFoundation" PackageName="Microsoft.VisualStudio.TeamFoundation.VersionControl.HatPackage">
+    <PropertyValue name="OpenSceToMostRecentPath">true</PropertyValue>
+  </Category>
+</UserSettings>
