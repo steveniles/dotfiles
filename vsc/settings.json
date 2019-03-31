@@ -9,6 +9,7 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "workbench.editor.highlightModifiedTabs": true,
+    "workbench.startupEditor": "newUntitledFile",
     "[markdown]": {
         "files.trimTrailingWhitespace": false
     }
