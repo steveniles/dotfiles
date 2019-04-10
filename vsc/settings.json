@@ -1,8 +1,10 @@
 {
+    "diffEditor.ignoreTrimWhitespace": false,
     "editor.fontFamily": "'Source Code Pro', 'Fira Code', Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
+    "editor.minimap.showSlider": "always",
     "editor.mouseWheelZoom": true,
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "boundary",
@@ -10,6 +12,7 @@
     "editor.showFoldingControls": "always",
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
+    "files.hotExit": "onExitAndWindowClose",
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "html.format.wrapLineLength": 0,
