@@ -17,7 +17,10 @@
     "files.trimTrailingWhitespace": true,
     "html.format.wrapLineLength": 0,
     "workbench.editor.highlightModifiedTabs": true,
+    "workbench.settings.editor": "json",
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.view.alwaysShowHeaderActions": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false
     }
