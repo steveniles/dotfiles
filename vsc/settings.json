@@ -1,4 +1,6 @@
 {
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.zeroUnits": "warning",
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.fontFamily": "'Source Code Pro', 'Fira Code', Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
@@ -17,6 +19,8 @@
     "files.hotExit": "onExitAndWindowClose",
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "git.showPushSuccessNotification": true,
+    "html.format.indentInnerHtml": true,
     "html.format.wrapLineLength": 0,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
