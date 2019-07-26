@@ -22,13 +22,16 @@
     "git.showPushSuccessNotification": true,
     "html.format.indentInnerHtml": true,
     "html.format.wrapLineLength": 0,
+    "omnisharp.enableEditorConfigSupport": true,
+    "omnisharp.enableRoslynAnalyzers": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "window.newWindowDimensions": "maximized",
+    "workbench.colorTheme": "Monokai Pro",
     "workbench.editor.highlightModifiedTabs": true,
+    "workbench.iconTheme": "Monokai Pro Icons",
     "workbench.settings.editor": "json",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.statusBar.feedback.visible": false,
     "workbench.view.alwaysShowHeaderActions": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false
